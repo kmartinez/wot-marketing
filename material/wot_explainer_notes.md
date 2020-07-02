@@ -7,6 +7,7 @@
 * Text: 
    - A winegrower is looking for possibilities to increase (his) productivity while keeping the excellent quality of (his) products
        - Alt: A winemaker is looking for ways to increase productivity while keeping excellent product quality
+      KM - A winegrower is looking for possibilities to increase productivity while maintaining excellent quality 
 * Staging: Far-away view of vineyard (maybe animation that zooms in from clouds...)
 * Comments: 
    - Should gender-specific "his" be changed to gender-neutral "their" or perhaps to "her"?
@@ -17,6 +18,7 @@
    - The original draft script had a female winegrower.  What happened?
    - There is also the issue of race.
    - We could maybe avoid the whole issue by using animal characters (eg cat and rabbits...)
+   KM - Animal characters would be a bit wierd. Just follow best practice and vary gender/race 
 
 
 ## Scene 2
@@ -24,8 +26,10 @@
 * Text:
    - To constantly control the quality of (his) plants (he) is willing to install humidity and temperature sensors, and a sprinkler system.
        - Alt: To constantly control quality, the winemaker is willing to install humidity and temperature sensors and a sprinkler system.
+       - KM: To constantly control quality, the winemaker wants to install humidity and temperature sensors together with a sprinkler system.
    - In addition (he) wants to to receive weather forecasts from an online web service
        - Alt: Weather forecasts from an online web service would also be useful
+       -KM integrating weather forecasts from an online source would also be useful
 * Staging: 
    - Keep zooming in, stop on a closeup of some grapes on the vine
    - Show addition of sensors and sprinkler system
@@ -36,11 +40,13 @@
 * Text: 
    - Lost in programming and connecting the devices (he) decides to engage (his) preferred IT consultant - who programmed (his) web presence - for realizing (his) IoT solution
        - Alt: Lost in programming and connecting devices, the winemaker decides to engage the IT consultant - who programmed the winemaker's web presence - to realize an IoT solution
+       - KM: due to the complexity of integrating the various devices, the winemaker decides to engage an IT consultant - who previously developed their website - to build the IoT solution
 * Staging: 
     - Show a "development system" that explodes in complexity
     - Winemaker has an idea (maybe a thought bubble) of asking the consultant that was used for the web presence for help with IoT
 * Comments: 
    - Image in original shows a messy breadboard, but a more "professional" picture that relates to software (perhaps a circle-and-line graph that explodes in complexity) would be better.
+   - KM I agree - a mixture of de-bradged items would be better, need some open src images or diagramatic figure?
    
 ## Scene 4
 ![Scene04](script_images/Scene04.png)
@@ -63,6 +69,8 @@
          - Alt: They like the new challenge and are willing to broaden their IoT knowledge
     - However, (he) only has a vague idea how to integrate hardware and fears the interoperability dilemma that he experienced in a former IoT project
          - Alt: However, they only have a vague idea how to integrate hardware and fear the interoperability dilemma that they experienced in a former IoT project
+         - KM: maybe it is better for the web devs to say "oh we know how to do that as WoT is familiar to us as web programmers" ? I'm not sure if a farmer would employ a company who had never touched this stuff.... so this is more appealing to the web company rather than end-user
+         
 * Staging:
     - Show picture of a developer hacking away, scratching his/her/their head, shuddering a little at some bad memories of a past project (maybe a thought bubble showing the consultant vainly trying to plug together two incompatible connectors)
 * Comment
@@ -124,7 +132,7 @@
     - How can I access the data or function?
     - What kinds of products and serializations do you support?
     - Is there context I need to understand (units, kinds of sensors, etc)
-    - What kinds of functions to you have?
+    - What kinds of functions do you have?
     - Are there some security constraints?
     - Do you have relationships to other Things?
 * Staging: 
@@ -134,6 +142,7 @@
     - to save time, suggest not reading out the questions individually
     - The "context" question is a little vague, I suggest replacing it with a couple more concrete questions: what units do you use, are you an instance of a class of devices, et.
     - small English fixes
+    -KM: relationship to other Things? not sure what that means
     
 ## Scene 11
 ![Scene11](script_images/Scene11.png)
@@ -146,6 +155,7 @@
     - Imaging showing high-speed development, maybe playing off "sprint" (eg show developers running down a track)
 * Comments:
     - Alternatives given have both gender-neutral language (using plurals) and fix some English issues
+    - KM - it does make more sense to point out they can integrate quickly and use their web skills for the rest
     
 ## Scene 12
 ![Scene12](script_images/Scene12.png)
